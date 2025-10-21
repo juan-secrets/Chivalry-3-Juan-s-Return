@@ -25,6 +25,7 @@ run the project in **UE5** (not just play the build), make sure to
 download the following:
 
 -   [Modular 012 Grian01](https://www.fab.com/fr/listings/04358ba0-3635-40a7-823a-292d932e712b)
+-   [Weapon 001 Ravi](https://www.fab.com/listings/0e2fc5f3-e316-410e-91df-18635a8174ed)
 
 ## 🚀 Getting Started
 
