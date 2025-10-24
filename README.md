@@ -26,6 +26,9 @@ download the following:
 
 -   [Modular 012 Grian01](https://www.fab.com/fr/listings/04358ba0-3635-40a7-823a-292d932e712b)
 -   [Weapon 001 Ravi](https://www.fab.com/listings/0e2fc5f3-e316-410e-91df-18635a8174ed)
+-   [Stylized Nature Pack](https://www.fab.com/listings/b066de06-73b8-4fbe-b30c-468f5bcf7575)
+-   [FANTASTIC - Village Pack](https://www.fab.com/listings/52529a12-e88e-41a0-8834-b87306f20c24)
+-   [Modular 010 Topa](https://www.fab.com/listings/db80c698-4bbc-4f02-8909-a35147d86a83)
 
 ## 🚀 Getting Started
 
