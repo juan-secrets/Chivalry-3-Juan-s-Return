@@ -29,6 +29,7 @@ download the following:
 -   [Stylized Nature Pack](https://www.fab.com/listings/b066de06-73b8-4fbe-b30c-468f5bcf7575)
 -   [FANTASTIC - Village Pack](https://www.fab.com/listings/52529a12-e88e-41a0-8834-b87306f20c24)
 -   [Modular 010 Topa](https://www.fab.com/listings/db80c698-4bbc-4f02-8909-a35147d86a83)
+-   [POLY - Medieval Camp](https://www.fab.com/listings/436d467a-6955-4aac-be0d-a05c99966ea2)
 
 ## 🚀 Getting Started
 
